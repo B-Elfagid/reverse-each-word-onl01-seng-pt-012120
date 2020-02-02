@@ -1,3 +1,1 @@
-def reverse_each_word(sentence)
-  sentence.each do |sentence|
-    puts "
+def reverse_each_word_with_each(string)
